@@ -15,6 +15,8 @@ Instead of digging through saved chat messages or browser bookmarks, simply inpu
 
 ##  Repository Structure
 
+```text
+
 .
 ├── data/                    # Local ChromaDB persistent storage
 ├── src/
